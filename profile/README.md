@@ -1,4 +1,9 @@
-# VAOV
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/getvaov/.github/main/brand/logo/vaov-white-logo.png">
+    <img src="https://raw.githubusercontent.com/getvaov/.github/main/brand/logo/vaov-black-logo.png" alt="VAOV" width="320">
+  </picture>
+</p>
 
 **We create work that makes you say "VAOV!"**  
 A creative software studio focused on strategy, design, and technology.
@@ -40,6 +45,13 @@ UI/UX: `Figma`, `Framer`, `Storybook`
 
 While most of our projects are private, we do have a few open-source projects open to contributors.  
 Please refer to the `CONTRIBUTING.md` file in each repo for specific guidelines.
+
+---
+
+## 🎨 Brand Assets
+
+Our logo, the V monogram and the app icons live in [`brand/`](https://github.com/getvaov/.github/tree/main/brand) — SVG and PNG, transparent background, light and dark variants.  
+[`brand/README.md`](https://github.com/getvaov/.github/blob/main/brand/README.md) says which file to use where.
 
 ---
 
